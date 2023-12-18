@@ -1,5 +1,19 @@
-fdaPDE is a C++ library to perform ...
+fdaPDE is a library for physics-informed spatial and functional data analysis, at the intersection between statistics and numerical analysis, for data located over complex multidimensional domains. The use of Partial Differential Equations (PDEs) permits to borrow informations coming from the physics of the problem under study into the statistical modeling, making fdaPDE an extremly flexible tool for the analysis of complex data.
 
-## Get Started
+fdaPDE offers a wide range of modeling capabilities, such as regression, non-parametric density estimation, functional data analysis and more, for data located over a spatial domain, possibly evolving in time.
+
+## Get started
+
+fdaPDE is a C++ library which interfaces with R, one of the most popular language for data analysis, and runs on all major platforms (Linux, Mac, Windows). To get started, see the [documentation site](https://fdapde.github.io/). 
+
+_Currently a new version of the library is under development, the documentation site refers to such development stage_
 
 ## Cite fdaPDE
+
+If you use fdaPDE for any scientific publication, please cite our project with:
+
+```
+Arnone, E., Clemente, A., Sangalli, L.M., Lila, E., Ramsay, J., and Formaggia, L. (2023),
+fdaPDE: Physics-Informed Spatial and Functional Data Analysis, R package available from CRAN
+https://cran.r-project.org/package=fdaPDE
+```
