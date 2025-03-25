@@ -8,6 +8,10 @@ fdaPDE is a C++ library which interfaces with R, one of the most popular languag
 
 _Currently a new version of the library is under development, the documentation site refers to such development stage_
 
+## News
+
+The fdaPDE team will present a short course on physics-informed statistical learning at the International Workshop on Statistical Modeling ([IWSM25](https://iwsm2025.ie/)), taking place in Limerick, Ireland, on July 13, 2025. For details on the topics covered, visit [this link](https://iwsm2025.ie/programme/short-course/).
+
 ## Cite fdaPDE
 
 If you use fdaPDE for any scientific publication, please cite our project with:
