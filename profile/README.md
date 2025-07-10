@@ -2,7 +2,7 @@
   <img src="fdaPDE_light.png" />
 </p>
 
-fdaPDE is a library for physics-informed statistical learning of spatial and functional data, at the intersection bet>
+fdaPDE is a library for physics-informed statistical learning of spatial and functional data, at the intersection between statistics and numerical analysis, for data located over complex multidimensional domains. The use of Partial Differential Equations (PDEs) permits to borrow informations coming from the physics of the problem under study into the statistical modeling, making fdaPDE an extremly flexible tool for the analysis of complex data.
 
 fdaPDE offers a wide range of modeling capabilities, such as regression, non-parametric density estimation, functional data analysis and more, for data located over a spatial domain, possibly evolving in time.
 
